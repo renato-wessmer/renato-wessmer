@@ -23,7 +23,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=renato-wessmer&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> 
 <br>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
 
 
 <!-- Endereços para contato -->
