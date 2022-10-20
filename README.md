@@ -14,7 +14,7 @@
 <br>
 <a href="https://skillicons.dev">
   <h2>Skills<h2/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,javascript,mysql,css,bootstrap,html" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,git,html,javascript,mysql,vscode" />
   <h2>Estudando<h2/>
   <img src="https://skillicons.dev/icons?i=linux,javascript,react,redux,java,nodejs,mysql" />
 </a>
