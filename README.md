@@ -16,7 +16,7 @@
   <h2>Skills<h2/>
   <img src="https://skillicons.dev/icons?i=bootstrap,css,git,html,javascript,mysql,vscode" />
   <h2>Estudando<h2/>
-  <img src="https://skillicons.dev/icons?i=linux,javascript,react,redux,java,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?ijava,javascript,linux,mysql,nodejs,react,redux" />
 </a>
 <br>
 <br>
